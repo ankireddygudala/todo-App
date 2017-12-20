@@ -1,0 +1,23 @@
+{
+  "name": "udemycourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DebuggingDemo.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {
+    "expect": "^22.0.3",
+    "mocha": "^4.0.1",
+    "nodemon": "^1.14.0",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
