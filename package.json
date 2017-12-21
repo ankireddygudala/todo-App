@@ -16,7 +16,8 @@
     "supertest": "^3.0.0"
   },
   "scripts": {
-    "test": "mocha tests/**/*.test.js"
+    "test": "mocha server/tests/**/*.test.js",
+    "test-watch": "nodemon --exec \"npm test\""
   },
   "author": "",
   "license": "ISC"
