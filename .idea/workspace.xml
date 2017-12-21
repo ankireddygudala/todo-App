@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db592a0c-7100-45b4-bf34-2ccec164d7cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/models/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/mongoose.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/todo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mongoose/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mongoose/monooseValidator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/server.test.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/models/user.js" afterPath="$PROJECT_DIR$/server/models/todo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="db592a0c-7100-45b4-bf34-2ccec164d7cf" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -223,12 +211,12 @@
       <workItem from="1513707600341" duration="9945000" />
       <workItem from="1513789866054" duration="5577000" />
       <workItem from="1513832584973" duration="604000" />
-      <workItem from="1513834719842" duration="5052000" />
+      <workItem from="1513834719842" duration="5427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24793000" />
+    <option name="totallyTimeSpent" value="25168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
