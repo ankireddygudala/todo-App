@@ -4,11 +4,10 @@
   "description": "",
   "main": "DebuggingDemo.js",
   "dependencies": {
+    "bcrypt": "^1.0.3",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mongodb": "^3.0.0-rc0",
-    "mongoose": "^4.13.7",
-    "yargs": "^10.0.3"
+    "ethereumjs-util": "^5.1.5",
+    "web3": "^0.19.1"
   },
   "devDependencies": {
     "expect": "^22.0.3",

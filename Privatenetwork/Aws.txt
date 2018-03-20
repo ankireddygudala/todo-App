@@ -1,0 +1,22 @@
+geth --datadir ~/eth-dev/ --networkid 77299 --verbosity 3 --ipcdisable --rpc --port 30301 --rpcport 8545 --rpcaddr ec2-18-216-109-69.us-east-2.compute.amazonaws.com console 2>> ~/eth-dev/eth.log
+
+
+geth --datadir ~/eth-dev/ --networkid 77299 --verbosity 3 --ipcdisable --rpc --port 30302 --rpcport 8546 console 2>> ~/ethdev/eth.log
+
+enode://e3f21b12dc68f5f208fab059ee580fa94394f14b0ff8e9597442977420680a9e893dcf4a874e34d93c5e716cf692b38a32ddfbed784279339f66399ad26f7e05@18.188.69.226:30301
+
+node-1 enode:
+enode://e3f21b12dc68f5f208fab059ee580fa94394f14b0ff8e9597442977420680a9e893dcf4a874e34d93c5e716cf692b38a32ddfbed784279339f66399ad26f7e05@18.216.109.69:30301?discport=0
+
+geth --datadir ./private/ --networkid 8096768001 --verbosity 4 --ipcdisable --rpc --port 30301 --rpcport 8545 --rpcaddr ec2-18-188-94-24.us-east-2.compute.amazonaws.com  console 2>> eth.log
+
+======================================================================
+			node -1
+enode://53adcbc8e76c566e4a80e441b0d5b1e3127a169c971bedafa0ba982333f49f5aac4b1295475576268b28525433065937181661190715872fec36170266d5b3e8@172.31.34.78:30303?discport=0
+
+			node -2
+enode://7767eca7f3e5be8b1ddccebd1276656f2943f3f0b436e3337ad77eeba82456b61c1634cd9e8f7fa87889994eb6b75527555bd7662a1dad43e86f13b103cd14a7@172.31.44.63:30304"
+
+"enode://7767eca7f3e5be8b1ddccebd1276656f2943f3f0b436e3337ad77eeba82456b61c1634cd9e8f7fa87889994eb6b75527555bd7662a1dad43e86f13b103cd14a7@172.31.44.63:30304"
+
+0x4e8247c731c8e2dba2c07d7dd9438ac0d73eb22984f7d8732637723f1ce0x4e8247c731c8e2dba2c07d7dd9438ac0d73eb22984f7d8732637723f1ced60ead60ea
